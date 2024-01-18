@@ -1,0 +1,36 @@
+.container{
+  display: grid;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.submit button{
+  width: 185px;
+    height: 35px;
+    background: black;
+    color: white;
+}
+
+.first-last {
+  display: flex;
+  
+}
+.residental-address {
+  display: flex;
+  margin-top: 20px;
+}
+.email-dob {
+  display: flex;
+  margin-top: 20px;
+}
+.upload-doc {
+  display: flex;
+  margin-top: 20px;
+}
+.permanent-address {
+  display: flex;
+  margin-top: 20px;
+}
+.first-last {
+  display: flex;
+}
